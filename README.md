@@ -1,4 +1,4 @@
-# Perguntas Frequentes
+# Perguntas a serem respondidas
 
 ## 1. Por que é necessário calcular a derivada parcial?
 
